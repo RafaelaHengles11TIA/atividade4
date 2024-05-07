@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(175, 48, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color:rgb(10, 87, 61);
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    color: #9ca3af;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background-color: #fef2f2;
+}
+
+.topicos {
+    background-color: #ffe5f0;
+
+}
