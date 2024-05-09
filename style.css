@@ -4,19 +4,19 @@ h1 {
 }
 h2 {
     color:rgb(10, 87, 61);
-    font-family: 'Times New Roman', Times, serif;
 }
 h3 {
     color: #9ca3af;
-    font-family: 'Times New Roman', Times, serif;
+}
+header {
+    background-color: #f5dff18f;
 }
 
-
 body {
-    background-color: #fef2f2;
+    background-color:#fef2f2;
 }
 
 .topicos {
-    background-color: #ffe5f0;
+    background-color: #f5d6e3;
 
 }
